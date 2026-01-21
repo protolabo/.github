@@ -24,14 +24,4 @@ Les dépôts présents ici peuvent inclure :
 
 Certains projets peuvent être **expérimentaux, incomplets ou en évolution continue**.
 
-## 🤝 Collaborations
-
-Les projets ProtoLabo peuvent impliquer :
-- Des **étudiants** (projets, stages, capstones)
-- Des **professionnels et collaborateurs externes**
-- Des **partenaires académiques**
-- Des **PME et organisations**
-
-Chaque projet précise son cadre de collaboration et ses conditions d’utilisation.
-
 > ProtoLabo — un espace pour expérimenter, apprendre et transformer des idées en solutions concrètes.
