@@ -1,4 +1,4 @@
-# ProtoLabo — Recherche & Développement
+# ProtoLabo
 
 ProtoLabo est un laboratoire de **recherche appliquée et d’innovation technologique** qui conçoit, expérimente et déploie des solutions numériques en collaboration avec des PME, des étudiants et des partenaires académiques.
 
